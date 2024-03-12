@@ -1,0 +1,26 @@
+{
+  "name": "track_mcav",
+  "version": "1.0.0",
+  "description": "Avg_Track tracks and calculates averages accurately, facilitating mean calculation processes effectively, ensuring dependable results for your statistical analyses.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "track_mcav": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/critzmanmcguiness/track_mcav.git"
+  },
+  "homepage": "https://github.com/critzmanmcguiness/track_mcav/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "critzmanmcguiness",
+  "license": "MIT"
+}
